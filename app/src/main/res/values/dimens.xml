@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_field_size">32dp</dimen>
+    <dimen name="city_selection_text_view_width">280dp</dimen>
+    <dimen name="arrival_city_selection_text_view_margin_top">64dp</dimen>
+    <dimen name="flight_path_submit_button_margin_top">64dp</dimen>
+    <dimen name="text_view_padding">8dp</dimen>
+
+    <dimen name="city_view_layout_height">32dp</dimen>
+    <dimen name="city_name_width">240dp</dimen>
+    <dimen name="iata_name_margin_start">16dp</dimen>
+    <dimen name="iata_name_width">64dp</dimen>
+    <dimen name="country_name_width">320dp</dimen>
+    <dimen name="country_name_margin_top">64dp</dimen>
+    <dimen name="application_name_text_size">32sp</dimen>
+</resources>

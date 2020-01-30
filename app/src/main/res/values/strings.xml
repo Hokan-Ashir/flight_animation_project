@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plane Flight Simulator</string>
+    <!--    TODO may be replace to something more user-closely like "Where are we flying from?" and less formal-->
+    <string name="departure_city">Departure city</string>
+    <!--    TODO may be replace to something more user-closely like "Where are we flying (to)?" and less formal-->
+    <string name="arrival_city">Arrival city</string>
+    <string name="flight_path_submit">Let\'s fly!</string>
+
+    <string name="city_name">City name</string>
+    <string name="iata_text_field_prefix">\u0020(</string>
+    <string name="iata_text_field_postfix">)</string>
+    <string name="application_name">Plane Flight Simulator</string>
+</resources>
